@@ -10,12 +10,13 @@
 - 展望
 
 #### 我是谁？
-Cassius，雄性，千禧年生人，来自中国湖南省首府长沙市。
+Cassius，雄性，千禧年生人，来自中国湖南省之首府长沙市。
 
 自幼喜欢鼓捣各种机器，与“计算机技术”第一次亲密接触来自于尝试开guest账户来绕过家里电脑的密码。
 
 中学时期生物成绩突出，高中跳入生物竞赛坑，2017年在国家竞赛中拿到THU保送资格。
 
+现正在学习生物信息学课程，师从清华大学[鲁志](https://lulab.github.io/)老师，希望着本科进入实验室实习的机会。
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
