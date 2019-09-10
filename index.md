@@ -6,7 +6,7 @@
 
 ## 浏览此网页，您会了解关于一个生信菜鸟的：
 - 生活历史
-- 历程与规划
+- 学习历程与规划
 
 ### 我是谁？
 ![](http://a4.qpic.cn/psb?/V11vpskJ3FroA5/czR9Wi9tv6LPjRuxdhbgH.G308.dIdd4EYeOZvYGl8Y!/c/dM8AAAAAAAAA&ek=1&kp=1&pt=0&bo=VAY4BAAAAAARF04!&tl=1&vuin=342481733&tm=1568120400&sce=60-2-2&rf=0-0)
