@@ -1,10 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎造访Cassius的Github页面！
+*作者：清华大学生命学院*
 
-You can use the [editor on GitHub](https://github.com/CassiusLi/CassiusLi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Cassius*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 通过浏览此网页，您会了解关于一个生信菜鸟的：
+- 生活史
+- 入门历程
+- 展望
+
+#### 我是谁？
+Cassius，雄性，千禧年生人，来自中国湖南省首府长沙市。
+
+自幼喜欢鼓捣各种机器，与“计算机技术”第一次亲密接触来自于尝试开guest账户来绕过家里电脑的密码。
+
+中学时期生物成绩突出，高中跳入生物竞赛坑，2017年在国家竞赛中拿到THU保送资格。
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
